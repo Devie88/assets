@@ -1,15 +1,7 @@
+
 {
   "name": "Tether USD",
   "symbol": "USDT",
-  "decimals": 6,
-  "description": "Visual replica token of USDT for demo purposes. Not the real one.",
-  "website": "https://tether.to",
-  "status": "active",
-  "id": "usdt-fan-token"
-}
-{
-  "name": "Fake USDT Fan Token",
-  "symbol": "fUSDT",
   "type": "BEP20",
   "decimals": 18,
   "description": "Demo token for Trust Wallet visual testing only.",
