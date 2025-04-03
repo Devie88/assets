@@ -7,3 +7,11 @@
   "status": "active",
   "id": "usdt-fan-token"
 }
+{
+  "name": "Fake USDT Fan Token",
+  "symbol": "fUSDT",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Demo token for Trust Wallet visual testing only.",
+  "website": "https://example.com"
+}
